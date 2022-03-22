@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucie1117
+- 👋 Hi, I’m @Nandesh_11
 - 👀 I’m interested in ...generous coding
 - 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ....-.. ..- -.-. .. .
